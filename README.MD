@@ -31,9 +31,9 @@ El servidor se iniciara en el puerto 4000
 
 1. Se debe iniciar el proyecto desde el front
 
-dentro de la carpeta de FrontEnd/nextjs-blog en la terminal
+dentro de la carpeta de FrontEnd en la terminal
 
-Escribir  cd nextjs-blog
+Escribir  cd FrontEnd
 
 1. Instalar las dependencias del node
 
